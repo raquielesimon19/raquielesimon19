@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 
 
-<!--
-**raquielesimon19/raquielesimon19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ me chamo Raquiele Simon
+ 
+- tenho 16 anos
+- estou cursando o alura 
+- estudo no colégio mickosz
+- gosto de cuidar dos meus gatos no tempo livre
+e gosto de fazer bolos 
+- e eu penso cursar matemática no futuro 
+gosto de ficar com a minha família e cuidar deles.
 
-Here are some ideas to get you started:
+## você pode entrar contatato comigo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+raquiele.simon@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/-ZQ-I0N9dRwAAAAC/dog-cute-dog.gif)
